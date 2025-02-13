@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native applications when working with AsyncStorage. The `bug.js` file showcases the incorrect usage of AsyncStorage's `getItem` method, leading to undefined values. The `bugSolution.js` file provides the corrected implementation using promises and error handling.
